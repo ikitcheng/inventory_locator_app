@@ -50,7 +50,7 @@ def main():
     cols = st.columns(2)
     item_name = cols[0].text_input("Item name:")
     if st.button("Search"):
-        search_item(item_name)
+        search_item(item_name.upper())
 
 # Load background image
 bg_image.set_png_as_page_bg(
