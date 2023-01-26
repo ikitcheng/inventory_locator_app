@@ -1,4 +1,5 @@
 import streamlit as st
+import json
 from util import bg_image
 import config
 
@@ -8,19 +9,16 @@ st.set_page_config(page_title="Inventory Locator App", page_icon=":guardsman:", 
                   )
 
 # Create a dictionary to store the inventory
-inventory = {
-    "item1": {"quantity": 10, "location": "Aisle 1, Shelf 2"},
-    "item2": {"quantity": 5, "location": "Aisle 2, Shelf 3"},
-    "item3": {"quantity": 2, "location": "Aisle 3, Shelf 1"}
-}
+inventory = json.load(open('./data/inventory.json'))
 
 def search_item(item_name):
     if item_name in inventory:
         item = inventory[item_name]
+        location = list(zip(item['zone'], item['shelf']))
         cols = st.columns(2)
         cols[0].success(f"Item found: {item_name}")
-        cols[0].write(f"Quantity: {item['quantity']}")
-        cols[0].write(f"Location: {item['location']}")
+        for l in location:
+            cols[0].write(f"Location: Zone {l[0]}, Shelf {l[1]}")
     else:
         cols[0].error(f"Item not found: {item_name}")
 

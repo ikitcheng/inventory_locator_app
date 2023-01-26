@@ -1,0 +1,398 @@
+{
+    "B12": {
+        "zone": [1],
+        "shelf": [1]
+    },
+    "Q52": {
+        "zone": [1],
+        "shelf": [2]
+    },
+    "BL2": {
+        "zone": [1],
+        "shelf": [2]
+    },
+    "K06": {
+        "zone": [1],
+        "shelf": [3]
+    },
+    "L06": {
+        "zone": [1],
+        "shelf": [3]
+    },
+    "K48": {
+        "zone": [1],
+        "shelf": [3]
+    },
+    "L37": {
+        "zone": [1],
+        "shelf": [3]
+    },
+    "K34": {
+        "zone": [1],
+        "shelf": [4]
+    },
+    "B18": {
+        "zone": [1],
+        "shelf": [4]
+    },
+    "KG1": {
+        "zone": [1],
+        "shelf": [4]
+    },
+    "B60": {
+        "zone": [1],
+        "shelf": [4]
+    },
+    "E1A": {
+        "zone": [1],
+        "shelf": [5]
+    },
+    "B17": {
+        "zone": [1],
+        "shelf": [5]
+    },
+    "E2B": {
+        "zone": [1],
+        "shelf": [6]
+    },
+    "B01": {
+        "zone": [1],
+        "shelf": [6]
+    },
+    "E2X": {
+        "zone": [1],
+        "shelf": [7]
+    },
+    "E1B": {
+        "zone": [1],
+        "shelf": [7]
+    },
+    "E4D": {
+        "zone": [1],
+        "shelf": [7]
+    },
+    "CP2": {
+        "zone": [2],
+        "shelf": [1]
+    },
+    "C02": {
+        "zone": [2],
+        "shelf": [1]
+    },
+    "CL5": {
+        "zone": [2],
+        "shelf": [1]
+    },
+    "C04": {
+        "zone": [2,2],
+        "shelf": [1,2]
+    },
+    "C10": {
+        "zone": [2],
+        "shelf": [2]
+    },
+    "C07": {
+        "zone": [2],
+        "shelf": [2]
+    },
+    "C29": {
+        "zone": [2],
+        "shelf": [2]
+    },
+    "C08": {
+        "zone": [2],
+        "shelf": [2]
+    },
+    "C16": {
+        "zone": [2],
+        "shelf": [2]
+    },
+    "C36": {
+        "zone": [2],
+        "shelf": [3]
+    },
+    "C28": {
+        "zone": [2],
+        "shelf": [3]
+    },
+    "C03": {
+        "zone": [2],
+        "shelf": [3]
+    },
+    "C46": {
+        "zone": [2],
+        "shelf": [3]
+    },
+    "C25": {
+        "zone": [2,2],
+        "shelf": [4,5]
+    },
+    "CG1": {
+        "zone": [2],
+        "shelf": [4]
+    },
+    "C30": {
+        "zone": [2],
+        "shelf": [4]
+    },
+    "C12": {
+        "zone": [2],
+        "shelf": [4]
+    },
+    "C01": {
+        "zone": [2],
+        "shelf": [5]
+    },
+    "C54": {
+        "zone": [2],
+        "shelf": [5]
+    },
+    "C68": {
+        "zone": [2],
+        "shelf": [5]
+    },
+    "C23": {
+        "zone": [2],
+        "shelf": [6]
+    },
+    "C22": {
+        "zone": [2],
+        "shelf": [6]
+    },
+    "T84": {
+        "zone": [3],
+        "shelf": [1]
+    },
+    "TCJ": {
+        "zone": [3],
+        "shelf": [1]
+    },
+    "TPL": {
+        "zone": [3],
+        "shelf": [1]
+    },
+    "T96": {
+        "zone": [3],
+        "shelf": [2]
+    },
+    "T91": {
+        "zone": [3],
+        "shelf": [4]
+    },
+    "TCD": {
+        "zone": [3],
+        "shelf": [4]
+    },
+    "TPH": {
+        "zone": [3],
+        "shelf": [5]
+    },
+    "TPA": {
+        "zone": [3],
+        "shelf": [6]
+    },
+    "nan": {
+        "zone": null,
+        "shelf": null
+    },
+    "TEG": {
+        "zone": [4],
+        "shelf": [1]
+    },
+    "TFD": {
+        "zone": [4,5],
+        "shelf": [2,3]
+    },
+    "TRB": {
+        "zone": [4],
+        "shelf": [2]
+    },
+    "TLB": {
+        "zone": [4],
+        "shelf": [3]
+    },
+    "TJC": {
+        "zone": [4],
+        "shelf": [3]
+    },
+    "TLE": {
+        "zone": [4],
+        "shelf": [3]
+    },
+    "TBK": {
+        "zone": [4],
+        "shelf": [3]
+    },
+    "TRC": {
+        "zone": [4],
+        "shelf": [3]
+    },
+    "TFE": {
+        "zone": [4,5],
+        "shelf": [3,2]
+    },
+    "TJJ": {
+        "zone": [4],
+        "shelf": [4]
+    },
+    "THM": {
+        "zone": [4],
+        "shelf": [4]
+    },
+    "THH": {
+        "zone": [4],
+        "shelf": [4]
+    },
+    "TJG": {
+        "zone": [4],
+        "shelf": [5]
+    },
+    "TLG": {
+        "zone": [4],
+        "shelf": [5]
+    },
+    "TLA": {
+        "zone": [4],
+        "shelf": [5]
+    },
+    "TJA": {
+        "zone": [4],
+        "shelf": [5]
+    },
+    "TJS": {
+        "zone": [4],
+        "shelf": [6]
+    },
+    "TKC": {
+        "zone": [4],
+        "shelf": [6]
+    },
+    "TFC": {
+        "zone": [5,4],
+        "shelf": [1,2]
+    },
+    "TFB": {
+        "zone": [5],
+        "shelf": [1]
+    },
+    "TAC": {
+        "zone": [5,6],
+        "shelf": [1,1]
+    },
+    "TAB": {
+        "zone": [5],
+        "shelf": [1]
+    },
+    "TAE": {
+        "zone": [5],
+        "shelf": [2]
+    },
+    "TFF": {
+        "zone": [5],
+        "shelf": [2]
+    },
+    "TFG": {
+        "zone": [5],
+        "shelf": [3]
+    },
+    "THB": {
+        "zone": [5],
+        "shelf": [4]
+    },
+    "THZ": {
+        "zone": [5],
+        "shelf": [4]
+    },
+    "TAG": {
+        "zone": [5],
+        "shelf": [4]
+    },
+    "TGA": {
+        "zone": [5],
+        "shelf": [4]
+    },
+    "THL": {
+        "zone": [5],
+        "shelf": [5]
+    },
+    "THC": {
+        "zone": [5],
+        "shelf": [5]
+    },
+    "TAF": {
+        "zone": [5],
+        "shelf": [5]
+    },
+    "THE": {
+        "zone": [5],
+        "shelf": [6]
+    },
+    "THY": {
+        "zone": [5],
+        "shelf": [6]
+    },
+    "THA": {
+        "zone": [5],
+        "shelf": [6]
+    },
+    "TAA": {
+        "zone": [6,6],
+        "shelf": [1,6]
+    },
+    "TAL": {
+        "zone": [6],
+        "shelf": [1]
+    },
+    "TAX": {
+        "zone": [6],
+        "shelf": [2]
+    },
+    "TAN": {
+        "zone": [6],
+        "shelf": [2]
+    },
+    "TAJ": {
+        "zone": [6],
+        "shelf": [2]
+    },
+    "TAY": {
+        "zone": [6],
+        "shelf": [3]
+    },
+    "TAS": {
+        "zone": [6],
+        "shelf": [3]
+    },
+    "TBE": {
+        "zone": [6],
+        "shelf": [4]
+    },
+    "TAZ": {
+        "zone": [6],
+        "shelf": [4]
+    },
+    "TCE": {
+        "zone": [6],
+        "shelf": [5]
+    },
+    "TCF": {
+        "zone": [6],
+        "shelf": [5]
+    },
+    "TBS": {
+        "zone": [6],
+        "shelf": [5]
+    },
+    "TBF": {
+        "zone": [6],
+        "shelf": [5]
+    },
+    "TFH": {
+        "zone": [6],
+        "shelf": [6]
+    },
+    "TCL": {
+        "zone": [6],
+        "shelf": [6]
+    }
+}
