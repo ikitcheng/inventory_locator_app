@@ -14,11 +14,11 @@ st.set_page_config(page_title="Inventory Locator App", page_icon=":guardsman:", 
 inventory = json.load(open('./data/inventory.json'))
 
 def search_item(item_name):
+    cols = st.columns(2)
     if item_name in inventory:
         item = inventory[item_name]
         locations = list(zip(item['zone'], item['shelf']))
         maps = preprocess_map(locations)
-        cols = st.columns(2)
         cols[0].success(f"Item found: {item_name}")
         for l in locations:
             cols[0].write(f"Location: Zone {l[0]}, Shelf {l[1]}")
